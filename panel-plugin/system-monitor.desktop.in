@@ -1,0 +1,8 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Name=System Monitor
+Comment=Graphs of CPU, memory, swap, GPU memory and network usage
+Icon=utilities-system-monitor
+X-XFCE-Module=system-monitor
+X-XFCE-Unique=FALSE
+X-XFCE-API=2.0
